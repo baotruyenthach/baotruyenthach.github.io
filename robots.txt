@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://baotruyenthach.github.io/sitemap.xml
