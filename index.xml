@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title></title>
+      <link>https://baotruyenthach.github.io/portfolio/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://baotruyenthach.github.io/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://baotruyenthach.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -216,7 +224,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-129578463&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-178634529&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -226,7 +234,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-129578463&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-178634529&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
